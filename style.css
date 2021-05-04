@@ -20,6 +20,9 @@ ul.nav1 {
 }
 
 h1.header {
+    background-color: HoneyDew;
+    text-align: center;
+    padding: 20px;
     font-family: "Rock Salt";
     font-size: 25pt;
 }
