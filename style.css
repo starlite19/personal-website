@@ -23,13 +23,20 @@ h1 {
     color: Black;
     font-family: "Permanent Marker";
     text-align: center;
-    font-size: 16pt;
+    font-size: 20pt;
 }
 
 p {
     font-family: "Architects Daughter";
-    font-size: 14pt;
+    font-size: 16pt;
     text-align: center;
+}
+
+h2 {
+    color: Black;
+    font-family: "Permanent Marker";
+    text-align: center;
+    font-size: 16pt;
 }
 
  /* a:link, a:visited {
