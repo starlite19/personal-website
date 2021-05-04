@@ -8,9 +8,13 @@ ul {
     font-size: 14pt;
 }
 
+li {
+    display: inline;
+}
 h1 {
     color: powderblue;
     font-family: "Permanent Marker";
+    font-size: 50%;
 }
 
 p {
