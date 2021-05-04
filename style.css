@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter|Gloria+Hallelujah');
 
 ul.nav1 {
     list-style-type: none;
@@ -17,6 +17,14 @@ ul.nav1 {
     background-color: HoneyDew;
     text-align: center;
     padding: 20px;
+}
+
+h1.header {
+    background-color: HoneyDew;
+    text-align: center;
+    padding: 20px;
+    font-family: "Gloria Hallelujah";
+    font-size: 20pt;
 }
 
 h1 {
@@ -72,7 +80,7 @@ li.navlist a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family: "Permanent Marker";
+    font-family: "Gloria Hallelujah";
 }
 
 li.navlist a:hover {
