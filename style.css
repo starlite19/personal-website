@@ -14,9 +14,9 @@ ul {
 } */
 
 .header {
-  background-color: Azure;
-  text-align: center;
-  padding: 20px;
+    background-color: Azure;
+    text-align: center;
+    padding: 20px;
 }
 
 h1 {
@@ -57,17 +57,18 @@ li:last-child {
 }
 
 li a {
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Permanent Marker";
 }
 
 li a:hover {
-  background-color: Lavender;
+    background-color: Lavender;
 }
 
 .active {
-  background-color: Lavender;
+    background-color: Lavender;
 }
