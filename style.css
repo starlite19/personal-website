@@ -110,3 +110,8 @@ ul.interest {
     margin-left: auto;
     margin-right: auto;
 }
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
