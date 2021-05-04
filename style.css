@@ -22,11 +22,13 @@ ul {
 h1 {
     color: powderblue;
     font-family: "Permanent Marker";
+    text-align: center;
 }
 
 p {
     font-family: "Architects Daughter";
     font-size: 12pt;
+    text-align: center;
 }
 
  /* a:link, a:visited {
