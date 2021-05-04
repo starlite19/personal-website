@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter');
 
-ul {
+ul.nav1 {
     list-style-type: none;
     font-size: 14pt;
     margin: 0;
@@ -50,16 +50,16 @@ a:hover, a:active {
 }
 */
 
-li {
+li.navlist {
     float: left;
     border-right:1px solid Black;
 }
 
-li:last-child {
+li.navlist:last-child {
     border-right: none;
 }
 
-li a {
+li.navlist a {
     display: block;
     color: black;
     text-align: center;
@@ -68,7 +68,7 @@ li a {
     font-family: "Permanent Marker";
 }
 
-li a:hover {
+li.navlist a:hover {
     background-color: Linen;
 }
 
