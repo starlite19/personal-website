@@ -90,8 +90,8 @@ li.navlist a:hover {
 ul.interest {
     font-family: "Architects Daughter";
     font-size: 14pt;
-    display:inline-block;
-    text-align:left;
+    text-align: center;
+    list-style-position: inside;
 }
 
 .column {
