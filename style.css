@@ -9,10 +9,6 @@ ul.nav1 {
     background-color: LightYellow;
 }
 
-/* li {
-    display: inline;
-} */
-
 .header {
     background-color: HoneyDew;
     text-align: center;
@@ -89,4 +85,9 @@ li.navlist a:hover {
 
 .active {
     background-color: Linen;
+}
+
+ul.interest {
+    font-family: "Architects Daughter";
+    font-size: 14pt;
 }
