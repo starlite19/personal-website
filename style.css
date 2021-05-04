@@ -1,16 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Architects+Daughter');
 
-ul {
+/* ul {
     list-style-type: none;
     grid-row-start: 2;
     grid-column-start: 2;
     width: 200px;
     font-size: 14pt;
-}
+} */
 
 li {
     display: inline;
 }
+
 h1 {
     color: powderblue;
     font-family: "Permanent Marker";
