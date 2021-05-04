@@ -13,6 +13,12 @@ ul {
     display: inline;
 } */
 
+.header {
+  background-color: Azure;
+  text-align: center;
+  padding: 20px;
+}
+
 h1 {
     color: powderblue;
     font-family: "Permanent Marker";
