@@ -6,7 +6,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: LavenderBlush;
+    background-color: LightYellow;
 }
 
 /* li {
@@ -20,14 +20,15 @@ ul {
 }
 
 h1 {
-    color: powderblue;
+    color: Black;
     font-family: "Permanent Marker";
     text-align: center;
+    font-size: 16pt;
 }
 
 p {
     font-family: "Architects Daughter";
-    font-size: 12pt;
+    font-size: 14pt;
     text-align: center;
 }
 
@@ -51,7 +52,7 @@ a:hover, a:active {
 
 li {
     float: left;
-    border-right:1px solid LightSteelBlue;
+    border-right:1px solid Black;
 }
 
 li:last-child {
@@ -68,9 +69,9 @@ li a {
 }
 
 li a:hover {
-    background-color: Lavender;
+    background-color: Linen;
 }
 
 .active {
-    background-color: Lavender;
+    background-color: Linen;
 }
