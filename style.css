@@ -38,11 +38,6 @@ p {
     text-align: center;
 }
 
-p.project {
-    font-family: "Architects Daughter";
-    font-size: 16pt;
-}
-
 h2 {
     color: Black;
     font-family: "Permanent Marker";
@@ -50,6 +45,12 @@ h2 {
     font-size: 16pt;
 }
 
+h3 {
+    color: Black;
+    font-family: "Permanent Marker";
+    text-align: center;
+    font-size: 14pt;
+}
  /* a:link, a:visited {
     background-color: white;
     color: black;
