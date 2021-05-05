@@ -38,6 +38,11 @@ p {
     text-align: center;
 }
 
+p.project {
+    font-family: "Architects Daughter";
+    font-size: 16pt;
+}
+
 h2 {
     color: Black;
     font-family: "Permanent Marker";
