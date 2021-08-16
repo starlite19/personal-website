@@ -17,6 +17,9 @@ ul.nav1 {
     padding: 20px;
 }
 
+body {
+    background-color: Linen;
+}
 h1.header {
     background-color: HoneyDew;
     text-align: center;
